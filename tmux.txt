@@ -1,0 +1,8 @@
+﻿tmux attach -t db-mirek
+
+
+ctrl+B s = switch sessions
+ctrl+b c = create new terminal
+
+ctrl+alt+o = move to terminal left
+ctrl+alt+p = move to terminal right
